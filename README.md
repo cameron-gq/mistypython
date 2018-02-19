@@ -1,4 +1,4 @@
-# misty-python
+# mistypython
 Python wrapper for Misty REST API
 
 ## Requirements
